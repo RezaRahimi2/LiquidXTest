@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e25a4616368c6a4b8d2927ac8792562, type: 3}
+  m_Name: GuardOnLostPlayerState
+  m_EditorClassIdentifier: 
+  <UpdateRate>k__BackingField: 100
+  <StateName>k__BackingField: 4
+  m_animatorParamName: Speed
+  <AnimatorParamValue>k__BackingField: 1.5
+  <Speed>k__BackingField: 2.5
+  m_generateRandomNumber: 0
+  m_lastKnownPosition: {x: -9.159781, y: 0.94987375, z: 1.3181229}
+  radius: 5
+  numberOfPoints: 5
+  m_PathfindingAlgorithmEnum: 3
